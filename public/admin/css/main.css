@@ -1,0 +1,55 @@
+body
+{
+  background: #66c2ff;
+}
+
+h1
+{
+  color: #444;
+}
+
+h2,h3,h4,h5,h6:
+{
+  color: #444;
+}
+
+footer
+{
+  background: #222;
+  padding: 20px;
+  text-align: center;
+}
+
+.page
+{
+  background: #fff;
+  border-radius: 1em;
+  margin: 1em;
+  min-height: 500px;
+  padding: 1em;
+}
+
+.table-cart
+{
+  background: #fff;
+  border-radius: 1em;
+  margin-bottom: 30px;
+  padding: 1em;
+}
+
+.table-cart img
+{
+  width: 50px;
+}
+
+.icon-home
+{
+  color: #66c2ff;
+  font-size: 60px;
+  margin: 20px;
+}
+
+.btn-home-admin
+{
+  font-size: 25px;
+}
